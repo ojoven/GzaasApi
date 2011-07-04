@@ -30,7 +30,7 @@ class GzaasTest extends PHPUnit_Framework_TestCase
 
         $gzaas = new Api();
 
-        $url = $gzaas->setApiKey('mySuperSecretApiKey')
+        $url = $gzaas->setApiKey('6tOlZuHh6kF')
             ->setFont($font)
             ->setBackPattern($pattern)
             ->setStyle($style)
